@@ -39,6 +39,7 @@ Pytorch and Tensorflow in Python
 Usually ***during a meeting due to poor connection***, a user in the meeting faces video 
 distortion but his audio is clear, in that case the model would correct that part of the video to 
 give a seamless experience to anyone watching the recording of the meeting.
+
 This was done using the Wav2Liv Deep Fake algorithm using the Generative Adversarial 
 Networks (GAN’s) in Deep Learning. It would pick video from a few seconds before the user 
 encountered the distortion. When the user faces distortion, the model would pick the audio 
