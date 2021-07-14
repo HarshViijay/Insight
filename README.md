@@ -7,8 +7,9 @@ Microsoft Engage 2021
 Sprints, each consisting of 1 week.
 
 <p align="center">
-  <img src="https://github.com/HarshViijay/Insight/blob/master/Engage3.JPG" width="350" alt="Agile Methodology">
+  <img src="https://github.com/HarshViijay/Insight/blob/master/img/Engage3.JPG" width="550" alt="Agile Methodology">
 </p>
+
 * The goals, requirements and planning for the week was decided on the first day of each 
 week and the ***tasks were broken and scheduled*** in advance.
 * At the start of each day, last day’s progress was noted and backlogs were carried 
@@ -17,13 +18,17 @@ forward to this day’s tasks. The activities of the rest of the day was planned
 noted down so that we never repeat it.
 * At the end of each week, the progress of the week was noted. The ***web app was kept 
 ready to be hosted*** with whatever features we had worked on so far.
+
 <p align="center">
-  <img src="https://github.com/HarshViijay/Insight/blob/master/img/Engage-2.JPG" width="350" alt="Task Scheduled">
+  <img src="https://github.com/HarshViijay/Insight/blob/master/img/Engage-2.JPG" width="550" alt="Task Scheduled">
 </p>
+
 * Demonstration:
 <p align="center">
-  <img src="https://github.com/HarshViijay/Insight/blob/master/img/Engage1.JPG" width="350" title="To-do list">
+  
+  <img src="https://github.com/HarshViijay/Insight/blob/master/img/Engage1.JPG" width="550" title="To-do list">
 </p>
+
 ## Special Feature: Video Distortion Correction
 ### Idea:
  Machine Learning Model has been implemented to ***correct the distorted videoin the 
@@ -42,9 +47,11 @@ and implement it in the lips of the user in the video recorded just before he fa
 distortion. This would result in a seamless final recorded video of the meeting.
 ### Algorithm:
 Wav2lip and GANs and is trained on the Oxford-BBC Lip Reading Sentences 2 (LRS2) Dataset.
+
 <p align="center">
-  <img src="https://github.com/HarshViijay/Insight/blob/master/img/Engage2.JPG" width="350" alt="Wav2Lip algorithm">
+  <img src="https://github.com/HarshViijay/Insight/blob/master/img/Engage2.JPG" width="550" alt="Wav2Lip algorithm">
 </p>
+
 Research Paper: https://arxiv.org/pdf/2008.10010.pdf
 ## Product
 ### Objective:
@@ -79,7 +86,9 @@ meeting ends.
 * Make new groups
 * Delete members from groups
 * Delete group
+* 
 ## Future of the Application
+
 * The web application will be hosted using Azure App Services to work with group video calls 
 and multiple servers simultaneously and with the Video distortion correction feature 
 explained above
